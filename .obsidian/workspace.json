@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "6802ad7f4c44d423",
+    "type": "split",
+    "children": [
+      {
+        "id": "874e7f9c954884ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f78558aa66843a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elinux/04-modern-cpp/02-cpp-intermediate/04-variadic-template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfffac24a46d2dc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elinux/04-modern-cpp/OOP-notes/OOP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e845f4a02f83891d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9d53b5615fbef0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f316e44e162b7908",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "364e6a86037c3aa3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "371f2538fb280784",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 317.5
+  },
+  "right": {
+    "id": "7693bd6d95606d5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfad1ad6d5bc9b08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73f83d6ed10997d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Elinux/04-modern-cpp/OOP-notes/OOP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eae5f7d2d0aaa5e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ca92df39c42a7fe8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Elinux/04-modern-cpp/OOP-notes/OOP.md"
+              }
+            }
+          },
+          {
+            "id": "b99e54c515f4b86b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Elinux/04-modern-cpp/OOP-notes/OOP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "dfffac24a46d2dc4",
+  "lastOpenFiles": [
+    "Elinux/04-modern-cpp/OOP-notes/01-objects-and-classes.md",
+    "Elinux/04-modern-cpp/02-cpp-intermediate/04-variadic-template.md",
+    "Elinux/04-modern-cpp/OOP-notes/OOP.md",
+    "Elinux/04-modern-cpp/02-cpp-intermediate/03-Templates meta-programming.md",
+    "Elinux/04-modern-cpp/02-cpp-intermediate/(01-02)requirements-app.md",
+    "Elinux/attachments/4-template_static_assertion.png.png",
+    "Elinux/attachments/2-template-instantiation.svg",
+    "Elinux/attachments/3-template-instantiation-speciaalization.png.png",
+    "Elinux/attachments/Diagram.svg",
+    "Elinux/04-modern-cpp/01-cpp-basics/01-input-output-streams.md",
+    "Elinux/04-modern-cpp/01-cpp-basics/terminologies/terminology.md",
+    "Elinux/attachments/1-templates.svg",
+    "Elinux/04-modern-cpp/OOP-notes",
+    "Elinux/attachments/2-template-instantiation.svg.xml",
+    "Elinux/attachments/1-templates.svg.xml",
+    "Elinux/04-modern-cpp/02-cpp-intermediate",
+    "Elinux/04-modern-cpp/01-cpp-basics/terminologies",
+    "Elinux/attachments",
+    "Elinux/attachments/Diagram.svg.xml",
+    "Excalidraw/Scripts/Downloaded/Drawing 2024-04-20 19.34.41.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
+    "Excalidraw/Scripts/Downloaded/Create DrawIO file.svg",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2024-04-20 19.32.39.excalidraw.md",
+    "dew.svg",
+    "Drawing 2024-04-20 19.34.52.excalidraw.md",
+    "reda.svg",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "Elinux/04-modern-cpp/01-cpp-basics/Untitled Diagram 1.svg",
+    "Elinux/04-modern-cpp/01-cpp-basics/Untitled Diagram.svg",
+    "Excalidraw/Drawing 2024-04-20 17.57.34.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-20 18.02.34.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-20 17.44.54.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-20 17.44.31.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-20 17.43.48.excalidraw.md",
+    "Images.md",
+    "Welcome.md"
+  ]
+}
